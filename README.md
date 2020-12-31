@@ -1,5 +1,5 @@
 # <ゼミB>プロジェクトII - Webアプリケーション構築
-hackmd.ioメモ(https://hackmd.io/@koyasu/Bkfry8ttw)<br>
+これまでのhackmd.ioメモ(https://hackmd.io/@koyasu/Bkfry8ttw)<br>
 **目標** — Webブラウザで図形をドラッグ＆ドロップで動かせるようにする．
 * HTML5を用いる
 * つまんだ位置を変えない
@@ -24,10 +24,14 @@ Elm アーキテクチャでは、3 つの項目によって成り立ってい�
 | update         | update<br>intersects<br>intersec |
 | view           | view<br>viewRect                 |
 
-## 3. 動作原理
+## 3. 簡単な動作原理
+* initにて初期位置(50,50)をrectに代入．dragStateへ状態を代入する．
+* 3つのイベントmousedown,mousemove,mouseupのパターンマッチ
+* 
 
-
-## 改善点
+## 4. 改善点
+* 行数の削減
+* つまんだ位置を変えない
 
 ## 参考文献
 * Elm で mouse のイベントを取得する覚書
