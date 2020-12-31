@@ -1,12 +1,10 @@
 # <ゼミB>プロジェクトII - Webアプリケーション構築
+* hackmd.ioメモ(https://hackmd.io/@koyasu/Bkfry8ttw)
 **目標** — Webブラウザで図形をドラッグ＆ドロップで動かせるようにする．
 * HTML5を用いる
 * つまんだ位置を変えない
 * なめらかに
 * 最小限の機能，コードを短く
-* 最終版をgithub.comにリポジトリを作って公開
-* README.md(マークダウンの説明書)
-* webページ：github pages
 
 ## 1. インポートするパッケージ
 * svg
@@ -26,12 +24,12 @@ Elm アーキテクチャでは、3 つの項目によって成り立ってい�
 | update         | update<br>intersects<br>intersec |
 | view           | view<br>viewRect                 |
 
-## 3. 
+## 3. 動作原理
+
 
 ## 改善点
 
 ## 参考文献
-* hackmd.ioメモ(https://hackmd.io/@koyasu/Bkfry8ttw)
 * Elm で mouse のイベントを取得する覚書
 (https://blog.emattsan.org/entry/2019/05/26/093114)
 * Elmの関数型的側面の多分ていねいな解説
@@ -40,4 +38,3 @@ Elm アーキテクチャでは、3 つの項目によって成り立ってい�
 (https://qiita.com/matsugaknight/items/00f35c99a9d539ddc9e4)
 * https://github.com/mpizenberg/elm-pointer-events/blob/master/examples/Mouse/Main.elm
 * Elm入門(https://youtube.com/playlist?list=PLp_EUEO9JJP2P4fW-73jR3iC14476twsW)
-
