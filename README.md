@@ -1,5 +1,5 @@
 # <ゼミB>プロジェクトII - Webアプリケーション構築
-* hackmd.ioメモ(https://hackmd.io/@koyasu/Bkfry8ttw)
+hackmd.ioメモ(https://hackmd.io/@koyasu/Bkfry8ttw)<br>
 **目標** — Webブラウザで図形をドラッグ＆ドロップで動かせるようにする．
 * HTML5を用いる
 * つまんだ位置を変えない
